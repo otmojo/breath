@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Breath</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <video id="video" playsinline></video>
+  <canvas id="canvas"></canvas>
+
+  <button class="show-ui" id="showUiBtn" aria-label="Settings">Settings</button>
+
+  <div class="overlay" id="overlay">
+    <div class="card">
+      <h1>Breath</h1>
+      <p>Allow camera access, sit upright, and center your chest in frame.<br>
+      Feel the light move with your breath.</p>
+      <button id="startBtn">Start</button>
+      <p class="hint">If no permission prompt appears, enable the camera from the address bar icon.</p>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="script.js"></script>
+</body>
+</html>
