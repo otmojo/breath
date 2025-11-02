@@ -1,6 +1,10 @@
 # Breath
 
-A minimalist browser-based breathing visualization tool that displays a responsive white orb tracking your chest movements through your device's camera.
+Breath Mirror turns your camera into a soft, meditative breathing space.
+It detects your body using MediaPipe and visualizes a glowing breathing aura on your chest.
+
+No instructions. No voice. Minimal stimulation.
+Just your breath and light. ✨
 
 ## Overview
 Breath creates a real-time visualization where a glowing orb follows your breathing pattern using pose detection technology. The application runs entirely in your browser with no data collection.
