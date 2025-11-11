@@ -1,6 +1,7 @@
 # Breath
 
 https://breathotmojo.netlify.app/
+
 Breath Mirror turns your camera into a soft, meditative breathing space.
 It detects your body using MediaPipe and visualizes a glowing breathing aura on your chest.
 
