@@ -1,6 +1,6 @@
 # Breath
 
-https://breathotmojo.netlify.app/
+https://breathotmojo.netlify.app/ or https://breath-omega.vercel.app/
 
 Breath Mirror turns your camera into a soft, meditative breathing space.
 It detects your body using MediaPipe and visualizes a glowing breathing aura on your chest.
